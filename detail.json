@@ -1,0 +1,27 @@
+{
+    "room":[
+        {
+            "id": 1,
+            "rooms": 102,
+            "discount": "20",
+            "price": "From 3,200,000",
+            "stayPeriod": "3 ngày",
+            "image": "https://katahome.com/wp-content/uploads/2018/10/thiet-ke-noi-that-phong-ngu-khach-san-5-sao-chuan-khong-can-chinh-4.jpg"
+        }, {
+            "id": 2,
+            "rooms": 409,
+            "discount": "5",
+            "price": "From 5,200,000",
+            "stayPeriod": "4 ngày",
+            "image": "https://studiochupanhdep.com/Upload/Images/Album/anh-phong-khach-san-dep-07.jpg"
+        }
+    ],
+    "user":[
+        {
+            "id": 1,
+            "name": "User 1",
+            "email": "user1@example.com",
+            "password": "123456"
+        }
+    ]
+}
